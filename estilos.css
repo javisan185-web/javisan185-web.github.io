@@ -26,3 +26,7 @@ p{margin-bottom:16px}
 footer{background:#222;color:#bbb;padding:28px 0;font-family:system-ui,sans-serif;font-size:.9rem}
 footer a{color:#fff}
 .peque{font-size:.8rem;color:#888}
+
+.relacionadas{margin:2.5em 0 1em;border-top:1px solid #e5d5d5;padding-top:1.2em}
+.relacionadas h2{font-size:1.3em}
+
